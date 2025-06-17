@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "mongodb": "^6.17.0"
+  },
+  "name": "week-1-mongodb-fundamentals-assignment-faithtee",
+  "version": "1.0.0",
+  "description": "A comprehensive MongoDB database setup script for a bookstore application with sample data and queries for learning and development purposes",
+  "main": "insert_books.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-FaithTEE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-FaithTEE/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-FaithTEE#readme"
+}
